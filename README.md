@@ -1,9 +1,10 @@
-# Word Generator App
+# WordPair Generator App
 A simple Flutter application that generates random words using the english_words package.
 
 Developed as part of my Mobile App Development course during the semester.
 # Features
 - Generate random word pairs
+- Bookmarked/Like your favorite wordpair
 - Clean and minimal UI
 - Cross-platform support (Android, iOS, Web, Desktop)
 - Built with Flutter
